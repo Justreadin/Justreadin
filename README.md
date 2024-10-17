@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Favour
-- 👀 I’m interested in ai engineering and programming
-- 🌱 I’m currently learning computer engineering and JavaScript 
-- 💞️ I’m looking to collaborate on ai engineering 
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me (whatsapp=+23409041385402) Gmail-dave.400g@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
