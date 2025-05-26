@@ -1,5 +1,5 @@
 Hello, I'm Favour! 👋
-I'm a driven software development and machine learning intern with a passion for building innovative solutions. I'm excited to connect with like-minded individuals and collaborate on cutting-edge projects.
+I'm a driven Fullstack and Machine Learning Developer with a passion for building innovative solutions. I'm excited to connect with like-minded individuals and collaborate on cutting-edge projects.
 
 About Me
 - 🔍 Interested in: Software Development, Machine Learning, and AI
